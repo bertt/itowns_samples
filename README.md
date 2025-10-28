@@ -8,6 +8,8 @@ Demo: https://bertt.github.io/itowns_samples/planar_view_3dtiles
 
 2] Planar View - 3D Tiles Octree subdivision - Terrain
 
+<img width="1793" height="621" alt="image" src="https://github.com/user-attachments/assets/80b5e0b4-a48b-4c43-b204-b5a47fea026c" />
+
 Demo: https://bertt.github.io/itowns_samples/planar_view_3dtiles/index_lyon_octree.html
 
 
